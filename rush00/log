@@ -1,0 +1,311 @@
+
+Adding hero : 0x7fb992c05bf0
+Trying to add a Game Entity directly [0x7fb992c05bf0] at the end of the pile
+starting program !
+Trying to add a Game Entity directly [0x7fb992d00110] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f00110] at the end of the pile
+Spawning enenmy at 239 - 5 with velocity : -0.16, and with address: 0x7fb992d00140
+Adding enemy to both machines 0x7fb992d00140
+Trying to add a Game Entity directly [0x7fb992d00140] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05d30] at the end of the pile
+Spawning enenmy at 238 - 34 with velocity : -0.16, and with address: 0x7fb992e00110
+Adding enemy to both machines 0x7fb992e00110
+Trying to add a Game Entity directly [0x7fb992e00110] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992d00070] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992e00140] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05d60] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 36 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00110
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d00110] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 36 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00110
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05d90] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 36 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d30
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d000a0] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05d30] at the end of the pile
+Spawning enenmy at 262 - 7 with velocity : -0.16, and with address: 0x7fb992e00170
+Adding enemy to both machines 0x7fb992e00170
+Trying to add a Game Entity directly [0x7fb992e00170] at the end of the pile
+OUT OF BOUND DETECTED : X 261.84 - Y : 7 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00170
+An enemy was killed
+Trying to add a Game Entity directly [0x7fb992e00170] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f00110] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992d000d0] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992e001a0] at the end of the pile
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992d000a0. (first if)
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05dc0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 10 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00070
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992e001d0] at the end of the pile
+Spawning enenmy at 235 - 38 with velocity : -0.16, and with address: 0x7fb992d00070
+Adding enemy to both machines 0x7fb992d00070
+Trying to add a Game Entity directly [0x7fb992d00070] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 10 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00140
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d000a0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 8 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d60
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00140] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 7 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00110
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05d60] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 6 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d90
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00170] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992e00140] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 4 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d30
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 3 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00170
+A bullet disappeared
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992f00170. (first if)
+A bullet disappeared
+trying to remove item at 0x7fb992d00140. (second if)
+An enemy was killed
+OUT OF BOUND DETECTED : X 261.5 - Y : 2 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00110
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d00140] at the end of the pile
+Spawning enenmy at 252 - 47 with velocity : -0.15, and with address: 0x7fb992e00170
+Adding enemy to both machines 0x7fb992e00170
+Trying to add a Game Entity directly [0x7fb992e00170] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 3 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d000d0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 3 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e001a0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 3 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05dc0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 10 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e001d0
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00110] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 8 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d000a0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 7 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00140
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00140] at the end of the pile
+Spawning enenmy at 253 - 21 with velocity : -0.16, and with address: 0x7fb992c05dc0
+Adding enemy to both machines 0x7fb992c05dc0
+Trying to add a Game Entity directly [0x7fb992c05dc0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 6 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d60
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05d60] at the end of the pile
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992f00140. (first if)
+A bullet disappeared
+trying to remove item at 0x7fb992e00110. (second if)
+An enemy was killed
+Trying to add a Game Entity directly [0x7fb992c05d30] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 4 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00140
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00140] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05d90] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 4 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00140
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00170] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992e00140] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f001a0] at the end of the pile
+Spawning enenmy at 253 - 21 with velocity : -0.14, and with address: 0x7fb992f001d0
+Adding enemy to both machines 0x7fb992f001d0
+Trying to add a Game Entity directly [0x7fb992f001d0] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f00200] at the end of the pile
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992f00170. (first if)
+A bullet disappeared
+trying to remove item at 0x7fb992d00070. (second if)
+An enemy was killed
+Trying to add a Game Entity directly [0x7fb992d00070] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f00170] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992d002b0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 33 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00110
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992e00110] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05df0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 35 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d60
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00110] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 36 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d30
+A bullet disappeared
+Spawning enenmy at 255 - 49 with velocity : -0.16, and with address: 0x7fb992d002e0
+Adding enemy to both machines 0x7fb992d002e0
+Trying to add a Game Entity directly [0x7fb992d002e0] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992d000a0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 36 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00140
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992e001a0] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05d30] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 37 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d90
+A bullet disappeared
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992e00110. (first if)
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05d90] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 39 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00140
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 41 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f001a0
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05d60] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 42 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00200
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d000d0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 43 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00070
+A bullet disappeared
+Spawning enenmy at 242 - 41 with velocity : -0.14, and with address: 0x7fb992f00200
+Adding enemy to both machines 0x7fb992f00200
+Trying to add a Game Entity directly [0x7fb992f00200] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992e00140] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 44 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00170
+A bullet disappeared
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992f00110. (first if)
+A bullet disappeared
+trying to remove item at 0x7fb992d002e0. (second if)
+An enemy was killed
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992c05d60. (first if)
+A bullet disappeared
+trying to remove item at 0x7fb992e00170. (second if)
+An enemy was killed
+Trying to add a Game Entity directly [0x7fb992d002e0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 45 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d002b0
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00110] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f00230] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 48 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05df0
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992f00260] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 50 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d000a0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 51 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e001a0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 52 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d30
+A bullet disappeared
+Spawning enenmy at 253 - 58 with velocity : -0.14, and with address: 0x7fb992d000a0
+Adding enemy to both machines 0x7fb992d000a0
+Trying to add a Game Entity directly [0x7fb992d000a0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 53 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d90
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 47 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d000d0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 48 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00140
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d000d0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 49 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d002e0
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992c05d90] at the end of the pile
+Spawning enenmy at 249 - 44 with velocity : -0.14, and with address: 0x7fb992d002e0
+Adding enemy to both machines 0x7fb992d002e0
+Trying to add a Game Entity directly [0x7fb992d002e0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 50 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00110
+A bullet disappeared
+Trying to add a Game Entity directly [0x7fb992d002b0] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 51 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00230
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 50 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00260
+A bullet disappeared
+OUT OF BOUND DETECTED : X -0.124268 - Y : 21 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05dc0
+An enemy was killed
+Trying to add a Game Entity directly [0x7fb992e00140] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992c05dc0] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992d00070] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992f00260] at the end of the pile
+Trying to add a Game Entity directly [0x7fb992e00110] at the end of the pile
+Spawning enenmy at 254 - 47 with velocity : -0.15, and with address: 0x7fb992d00100
+Adding enemy to both machines 0x7fb992d00100
+Trying to add a Game Entity directly [0x7fb992d00100] at the end of the pile
+A collision was detected !
+A GameEntity took 20 damages.
+trying to remove item at 0x7fb992f00260. (first if)
+A bullet disappeared
+trying to remove item at 0x7fb992f001d0. (second if)
+An enemy was killed
+OUT OF BOUND DETECTED : X 261.5 - Y : 26 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d000d0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 25 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05d90
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 24 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d002b0
+A bullet disappeared
+Spawning enenmy at 251 - 31 with velocity : -0.16, and with address: 0x7fb992c05d90
+Adding enemy to both machines 0x7fb992c05d90
+Trying to add a Game Entity directly [0x7fb992c05d90] at the end of the pile
+OUT OF BOUND DETECTED : X 261.5 - Y : 24 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00140
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 23 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992c05dc0
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 22 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00070
+A bullet disappeared
+OUT OF BOUND DETECTED : X 261.5 - Y : 20 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992e00110
+A bullet disappeared
+Spawning enenmy at 234 - 50 with velocity : -0.16, and with address: 0x7fb992c05dc0
+Adding enemy to both machines 0x7fb992c05dc0
+Trying to add a Game Entity directly [0x7fb992c05dc0] at the end of the pile
+OUT OF BOUND DETECTED : X -0.0590319 - Y : 41 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992f00200
+An enemy was killed
+Spawning enenmy at 262 - 34 with velocity : -0.15, and with address: 0x7fb992d00070
+Adding enemy to both machines 0x7fb992d00070
+Trying to add a Game Entity directly [0x7fb992d00070] at the end of the pile
+OUT OF BOUND DETECTED : X 261.85 - Y : 34 ws_col : 262 ws_row 59
+Out of bonds : 0x7fb992d00070
+An enemy was killed
+A collision was detected !
+A GameEntity took 20 damages.
