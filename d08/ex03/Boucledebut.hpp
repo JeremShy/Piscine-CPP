@@ -1,9 +1,7 @@
 #ifndef BOUCLE_DEBUT_CLASS_H
 # define BOUCLE_DEBUT_CLASS_H
 
-# include <string>
-# include <iostream>
-# include "AInstruction.hpp"
+#include "mindopen.hpp"
 
 class BoucleDebut : public AInstruction {
 public:

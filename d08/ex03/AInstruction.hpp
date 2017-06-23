@@ -1,8 +1,7 @@
 #ifndef AINSTRUCTION_CLASS_H
 # define AINSTRUCTION_CLASS_H
 
-# include <string>
-# include <iostream>
+#include "mindopen.hpp"
 
 class AInstruction {
 public:
